@@ -1,0 +1,100 @@
+version: 1.0.0
+facts:
+  - id: character:seohan:생존 경위
+    subject:
+      kind: character
+      id: seohan
+    key: 생존 경위
+    value: 멸문의 밤에 사부가 검보를 맡겨 밀실에 숨긴 덕에 낙화검문에서 홀로 살아남았다
+    status: canon
+  - id: character:seohan:위장 신분
+    subject:
+      kind: character
+      id: seohan
+    key: 위장 신분
+    value: 한서라는 가짜 이름으로 흑룡방 외당에 입방해 곽철산의 부하가 되었다
+    status: canon
+  - id: character:seohan:미완의 절기
+    subject:
+      kind: character
+      id: seohan
+    key: 미완의 절기
+    value: 낙화십이식 열두 초식 중 마지막 초식을 잇지 못했고 그 검결 자리는 유서의 빈 줄로 남았다
+    status: canon
+  - id: character:jonghak:이십 년 전 비무
+    subject:
+      kind: character
+      id: jonghak
+    key: 이십 년 전 비무
+    value: 이십 년 전 백리검성과의 비무에서 이겨 일초를 빚졌다는 수결 기록을 검총 석실에 남겼다
+    status: canon
+  - id: character:jonghak:유서와 지도
+    subject:
+      kind: character
+      id: jonghak
+    key: 유서와 지도
+    value: 마지막 줄이 빈 유서와 검총 지도 반쪽을 남겼고 나머지 반쪽은 소면귀에게 맡겼다
+    status: canon
+  - id: character:geomseong:멸문 사주
+    subject:
+      kind: character
+      id: geomseong
+    key: 멸문 사주
+    value: 이십 년 전 비무 패배 기록을 지우려 흑룡도법을 흉내 낸 자객단을 사서 낙화검문을 멸문시켰다
+    status: canon
+  - id: character:geomseong:밀서
+    subject:
+      kind: character
+      id: geomseong
+    key: 밀서
+    value: 멸문 사주와 자객단 발문의 수결이 담긴 밀서를 무림맹 총단 서각 깊이 보관했다
+    status: canon
+  - id: character:hawol:계약의 족쇄
+    subject:
+      kind: character
+      id: hawol
+    key: 계약의 족쇄
+    value: 독곡의 빚 계약으로 흑룡방에 팔려 왔고 그 계약은 독곡의 검은 비석에 새겨져 있다
+    status: canon
+  - id: character:cheolsan:보증의 빚
+    subject:
+      kind: character
+      id: cheolsan
+    key: 보증의 빚
+    value: 감찰당 앞에서 제 수결을 걸어 서한의 신원을 보증했고 협곡에서 서한에게 목숨을 빚졌다
+    status: canon
+  - id: character:somyeon:값의 규칙
+    subject:
+      kind: character
+      id: somyeon
+    key: 값의 규칙
+    value: 은자보다 본명과 맹세를 값으로 받으며 판 진실의 진위를 목숨으로 보증한다
+    status: canon
+  - id: background:burnt-gate:검흔
+    subject:
+      kind: background
+      id: burnt-gate
+    key: 검흔
+    value: 산문 기둥에는 흑룡방 도 자국 틈에 정파 명문의 상승 검로 검흔 하나가 남아 있다
+    status: canon
+  - id: background:blackdragon-yard:출정 기록
+    subject:
+      kind: background
+      id: blackdragon-yard
+    key: 출정 기록
+    value: 문서고의 출정 기록은 멸문의 밤 총단 병력 전원이 장강 소금 호송에 있었음을 증명한다
+    status: canon
+  - id: background:sword-mound:석실 기록
+    subject:
+      kind: background
+      id: sword-mound
+    key: 석실 기록
+    value: 석실 벽에 낙화십이식 검결과 이십 년 전 비무의 양측 수결 기록이 새겨져 있다
+    status: canon
+  - id: background:massacre-night:무림의 기록
+    subject:
+      kind: background
+      id: massacre-night
+    key: 무림의 기록
+    value: 무림은 이 밤을 흑룡방의 소행으로 기록했으나 실제 하수인은 도법을 흉내 낸 자객단이었다
+    status: canon

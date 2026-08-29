@@ -1,0 +1,19 @@
+type: location
+id: ambush-gorge
+name: 협곡 매복지
+aliases:
+  - 협곡
+  - 매복 골짜기
+description:
+  - 흑룡방 총단과 무림맹 세력권 사이를 잇는 외길 협곡으로 양쪽 절벽이 하늘을 한 뼘으로 좁힌다.
+  - 절벽 중턱의 바위 턱과 마른 계곡 바닥은 매복과 낙석전에 쓰기 좋아 병가의 요지로 불린다.
+characterIds: []
+tags:
+  - 외길
+  - 결전지
+time: 그늘이 깊은 늦은 오후
+weather: 마른 바람
+senses:
+  - 마른 돌가루와 화약 심지 냄새
+  - 협곡을 타고 증폭되는 말발굽과 함성의 메아리
+locationKind: place

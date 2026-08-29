@@ -1,0 +1,19 @@
+type: location
+id: chwiwol-inn
+name: 취월루 객잔
+aliases:
+  - 취월루
+  - 객잔
+description:
+  - 흑룡방 세력권 어귀 저잣거리에서 가장 큰 이층 객잔으로 무림의 소문이 술보다 빨리 도는 곳.
+  - 이층 구석 자리는 계단과 창을 한눈에 둘 수 있어 신분을 숨긴 자들이 즐겨 앉는다.
+characterIds: []
+tags:
+  - 저잣거리
+  - 소문의 집산지
+time: 등롱이 켜지는 초저녁
+weather: 흐린 뒤 갬
+senses:
+  - 데운 죽엽청과 기름진 볶음 요리 냄새
+  - 층계를 오르내리는 발소리와 낮게 웅성이는 말소리
+locationKind: place

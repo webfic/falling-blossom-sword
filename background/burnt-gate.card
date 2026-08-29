@@ -1,0 +1,19 @@
+type: location
+id: burnt-gate
+name: 불탄 낙화검문 옛터
+aliases:
+  - 옛터
+  - 낙화검문 폐허
+description:
+  - 매화 언덕 위에 서 있던 낙화검문이 하룻밤 불길에 무너져 검게 그을린 폐허.
+  - 무너진 산문 기둥에는 도(刀)로 베인 깊은 자국들이 그대로 남아 있다.
+characterIds: []
+tags:
+  - 폐허
+  - 멸문의 흔적
+time: 잿빛 새벽
+weather: 매캐한 바람
+senses:
+  - 식은 재와 그을린 소나무 냄새
+  - 무너진 기와가 바람에 미끄러져 부딪는 소리
+locationKind: place

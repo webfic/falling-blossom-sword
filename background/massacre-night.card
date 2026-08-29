@@ -1,0 +1,20 @@
+type: temporal
+id: massacre-night
+name: 멸문의 밤
+aliases:
+  - 그날 밤
+  - 멸문지야
+description:
+  - 매화가 만개한 봄밤 자시에 복면 도객들이 낙화검문을 급습해 하룻밤 만에 문파를 지운 밤.
+  - 무림은 이 밤을 흑룡방의 소행으로 기록했으나 검흔 하나가 그 기록과 어긋난다.
+characterIds:
+  - seohan
+  - jonghak
+tags:
+  - 사건의 기점
+  - 이십 년 음모의 발화
+time: 봄밤 자시
+weather: 달 밝은 밤
+senses:
+  - 매화 향을 삼키는 불길과 그을음 냄새
+  - 도풍이 문짝을 쪼개는 소리와 비명

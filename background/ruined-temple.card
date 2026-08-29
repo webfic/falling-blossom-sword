@@ -1,0 +1,19 @@
+type: location
+id: ruined-temple
+name: 폐사찰
+aliases:
+  - 무너진 절
+  - 산중 폐사
+description:
+  - 낙화검문 뒷산 능선 너머에 버려진 산사로 반쯤 무너진 대웅전만 지붕을 이고 있다.
+  - 쫓기는 자들이 하룻밤을 의탁하는 곳이라 불단 뒤에 마른 장작과 소금이 숨겨져 있다.
+characterIds: []
+tags:
+  - 은신처
+  - 폐허
+time: 달빛이 새어 드는 밤
+weather: 찬 바람
+senses:
+  - 젖은 단청 나무와 향 재의 냄새
+  - 뚫린 지붕 틈으로 바람이 우는 소리
+locationKind: place
