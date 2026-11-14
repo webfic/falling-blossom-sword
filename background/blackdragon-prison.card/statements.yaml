@@ -1,0 +1,40 @@
+- facet: description
+  value: 흑룡방 총단 지하에 판 감옥으로 강물 수위보다 낮아 벽에서 물이 배어 나온다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 규율을 어긴 방도와 포로가 갇히며 심문은 옥 안쪽 형방에서 이루어진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 감금
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 심문
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 밤낮이 없는 어둠
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 알 수 없음
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 곰팡이와 녹슨 쇠사슬 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 벽을 타고 스미는 물방울 소리와 먼 신음
+  source:
+    origin: author
+    command: migrate 0.15

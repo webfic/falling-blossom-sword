@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 첫 회전으로 정파의 칼이 실제로 방을 지우려 함을 보이고 철산을 사지로 몬다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 예정보다 빠른 선봉의 기습과 절벽 위 낙석이 외당의 방어선을 두 동강 낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 선봉의 검진이 흑룡방 토벌이 아니라 몰살의 진형이고, 퇴로 쪽 절벽부터 무너뜨린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 방어전의 긴장이 몰살 의도를 읽은 분노와 철산을 지켜야 한다는 절박함이 된다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 퇴로부터 끊는 몰살 진형
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 낙석에 깔린 향주의 도
+  source:
+    origin: author
+    command: migrate 0.15

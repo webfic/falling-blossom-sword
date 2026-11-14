@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 하월의 계약 족쇄를 드러내고 서한의 수련이 마지막 초식의 벽에 막히게 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 골짜기의 냉대 속에 하월은 계약 비석 앞에 서고, 서한의 열두 번째 초식은 베는 끝을 못 찾는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 하월이 서한의 검을 보고 당신 검은 끝까지 죽이려는 검이라 그 초식이 안 나온다고 짚는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 유산을 얻은 자신감이 벽 앞의 초조로, 다시 하월의 말이 남긴 서늘한 화두로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 죽이려는 검이라는 화두
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 비석에 남은 하월의 이름
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 협곡 방어와 단신 돌파를 갈라 서한을 대전으로, 철산을 사수전으로 보낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 서한은 하월 구출과 협곡 사수 사이에서 갈리고, 철산은 제 몫이라며 협곡을 맡는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 소면귀의 전서구가 날아들어 영웅대회 폐회식에 무림 명숙들이 모두 모인다고 알린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 하월을 잃은 자책이 철산의 등을 믿고 제 판으로 가는 벼려진 결의로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 폐회식에 모이는 명숙들
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 철산이 돌려준 사부의 검
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,40 @@
+- facet: description
+  value: 안개가 걷히지 않는 깊은 골짜기로 독초와 약초가 한 뿌리에서 자란다는 독인들의 은거지.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 골짜기 안쪽 석실에는 독곡 사람들의 계약과 족보가 새겨진 검은 비석이 서 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 은거지
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 독과 약
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 안개가 짙은 오후
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 습한 안개
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 쓴 약초 달이는 냄새와 젖은 이끼 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 안개 너머에서 우는 이름 모를 새소리
+  source:
+    origin: author
+    command: migrate 0.15

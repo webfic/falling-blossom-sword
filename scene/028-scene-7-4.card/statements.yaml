@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 추격전 끝에 하월을 인질로 빼앗겨 결전의 판에 인질이라는 패를 얹는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 추격대가 나루를 봉쇄하고, 밀서와 두 사람 모두가 강을 건널 배는 한 척뿐이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 하월이 서한을 배로 차 밀어내고 제 몸으로 추격대를 막으며 스스로 남는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 함께 살 길을 찾던 필사가 하월을 남긴 배 위의 무력한 분노로 무너진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 하월이 삼킨 가짜 밀서
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 인질 교환이라는 셈법
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 잠입의 위기를 조여 서한이 곽철산에게 진 빚과 방에 대한 시선 변화를 만든다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 감찰당은 서한의 출신을 파고들고, 곽철산은 제 수결을 걸고 조사를 막아선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 철산이 서한만 남긴 자리에서 네가 뭘 찾든 방을 다치게 하지 말라고 못 박는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 발각의 공포가 철산의 보증에 대한 부채감과 원수 아닌 원수라는 혼란으로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 향주의 수결을 건 보증
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 방을 다치게 말라는 경고
+  source:
+    origin: author
+    command: migrate 0.15

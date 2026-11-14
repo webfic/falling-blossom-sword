@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 정체 공개를 공조로 뒤집어 서한과 흑룡방이 같은 원수를 겨누게 만든다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 수뇌부는 낙화의 생존자를 인질감으로 보고, 철산은 목숨 빚과 진실로 맞선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서한이 기록과 검흔을 걸어 배후는 무림맹 안에 있다 밝히자 방주의 밀지가 공조를 허한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 처분을 기다리던 체념이 원수의 방과 한 방향을 보게 된 기묘한 결속으로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 맹주의 서각에 있다는 밀서
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 방주의 이름 없는 밀지
+  source:
+    origin: author
+    command: migrate 0.15

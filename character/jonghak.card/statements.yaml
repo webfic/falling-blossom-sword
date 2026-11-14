@@ -1,0 +1,58 @@
+- facet: description
+  value: 낙화검문의 장문이자 진서한의 사부로 멸문의 밤에 목숨을 잃었다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 이십 년 전 백리검성과의 비무에서 이긴 유일한 검객이었다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 회상과 유서로만 등장해 낙화십이식의 마지막 실마리를 남긴다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 제자를 꾸짖은 날은 반드시 밤에 검을 함께 닦았다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 매화가 지는 날에는 하루 검을 놓았다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 검결을 노래하듯 읊어 가르친다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 중요한 말일수록 끝을 맺지 않고 여백으로 남긴다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 낙화십이식이 살검이 아니라 살리는 검으로 완성되기를 바랐다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 스승의 유산, 회상의 인물
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 이십 년 전 비무
+  value: 이십 년 전 백리검성과의 비무에서 이겨 일초를 빚졌다는 수결 기록을 검총 석실에 남겼다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 유서와 지도
+  value: 마지막 줄이 빈 유서와 검총 지도 반쪽을 남겼고 나머지 반쪽은 소면귀에게 맡겼다
+  source:
+    origin: author
+    command: migrate 0.15

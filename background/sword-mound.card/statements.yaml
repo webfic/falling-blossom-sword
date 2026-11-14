@@ -1,0 +1,46 @@
+- facet: description
+  value: 낙화검문 역대 검객들의 검을 묻은 매화나무 숲속 무덤으로 지도 없이는 입구를 찾을 수 없다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 무덤 안 석실 벽에는 낙화십이식의 검결과 이십 년 전 비무의 기록이 새겨져 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 유산
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 비전의 무덤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 매화잎 지는 해 질 녘
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 꽃바람
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 흙내와 오래 삭은 검집의 옻 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 석실에 울리는 제 발소리와 검명 같은 바람 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 석실 기록
+  value: 석실 벽에 낙화십이식 검결과 이십 년 전 비무의 양측 수결 기록이 새겨져 있다
+  source:
+    origin: author
+    command: migrate 0.15

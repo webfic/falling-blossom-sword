@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 멸문 당일의 출정 기록을 서한의 눈으로 확인시켜 원수의 그림에 첫 균열을 낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 기록을 몰래 뒤지는 서한의 손과 순찰을 도는 곽철산의 발소리가 서가에서 엇갈린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 멸문 당일 총단 병력 전원이 장강 소금 호송에 동원되었다는 붉은 수결이 찍혀 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 원수의 죄증을 쥐려던 확신이 어긋난 기록 앞의 어지러운 의심으로 뒤집힌다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 장강 소금 호송의 붉은 수결
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 기록과 공론의 어긋남
+  source:
+    origin: author
+    command: migrate 0.15

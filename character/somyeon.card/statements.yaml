@@ -1,0 +1,62 @@
+- facet: description
+  value: 하얀 소면으로 얼굴을 가린 지하의 정보상으로 진위만을 판다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 은자보다 비밀·이름·맹세 같은 값을 즐겨 받는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 낙화검문 멸문의 진실 조각을 쥐고 진서한에게 값을 부른다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 소면 뒤에서 상대의 숨소리로 거짓을 가려낸다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 값을 먼저 정하기 전에는 어떤 물음에도 답하지 않는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 판 정보는 산 자가 죽어도 환불하지 않는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 속삭이듯 낮고 성별을 가늠할 수 없는 목소리로 말한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 답은 언제나 산 만큼만, 한 조각씩 끊어 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 무림의 모든 거짓이 제값에 팔리는 순간을 보고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 이십 년 전 그 밤의 진실을 가장 비싼 값에 팔고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 진실의 장사꾼, 등가교환
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 값의 규칙
+  value: 은자보다 본명과 맹세를 값으로 받으며 판 진실의 진위를 목숨으로 보증한다
+  source:
+    origin: author
+    command: migrate 0.15

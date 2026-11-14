@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 밀서의 위치와 잠입로를 확보하고 소면귀의 값이 복수 자체에 걸려 있음을 드러낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 소면귀는 이번 값으로 밀서를 연 뒤 무엇을 할 것인지, 복수의 끝을 미리 팔라 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 소면귀가 값 없이 영웅첩 한 장을 얹으며 무림영웅대회가 잠입의 문이라 일러 준다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 정보상을 쓰던 손님의 계산이 같은 밤을 기다려 온 자와의 공모로 깊어진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 죽임이 아닌 죄상 공개라는 끝
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 영웅첩이라는 잠입의 문
+  source:
+    origin: author
+    command: migrate 0.15

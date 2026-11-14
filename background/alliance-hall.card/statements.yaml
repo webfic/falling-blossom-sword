@@ -1,0 +1,40 @@
+- facet: description
+  value: 정파 무림의 총본산인 무림맹 총단의 정전으로 백 개의 문파 깃발이 천장 아래 걸려 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 대전 뒤편 맹주의 서각은 삼중의 경비로 닫혀 있고 밀서와 비무 기록이 보관되어 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 정파
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 권력의 심장
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 향이 피워진 정오
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 맑음
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 백단향과 오래된 먹 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 돌바닥에 울리는 갑주와 검집 소리
+  source:
+    origin: author
+    command: migrate 0.15

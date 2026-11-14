@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 만인 앞에서 죄상 공개를 시도하게 하고 인질과 궤변으로 판을 검성 쪽에 기울인다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 서한이 밀서를 낭독하려 하자 검성은 하월의 목에 검을 걸고 위서라 궤변을 편다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 검성이 진위를 비무로 가리자며 이기면 밀서를 태우겠다고 만인 앞에서 판을 뒤집는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 만인 앞에 선 결기가 인질 앞의 흔들림을 지나 비무 수락의 결단으로 조여진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 이십 년 전과 같은 비무의 판
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 명숙석에 앉은 낯선 소면
+  source:
+    origin: author
+    command: migrate 0.15

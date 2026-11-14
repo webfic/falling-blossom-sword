@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 방 내부 지리와 문서고의 존재를 심어 잠입 수사의 발판을 마련한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 눈에 들어야 문서고에 접근하지만, 눈에 띌수록 감찰당의 시선도 함께 모인다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 곽철산이 서한을 문서고 당직 명부에 올리며 글 읽는 놈이 필요했다고 흘린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 원수 소굴의 경계심이 철산의 거친 보살핌 앞에서 당혹스러운 온기로 흔들린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 문서고에 쌓인 출정 기록
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 감찰당의 명부 조사
+  source:
+    origin: author
+    command: migrate 0.15

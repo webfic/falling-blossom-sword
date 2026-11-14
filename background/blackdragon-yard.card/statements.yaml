@@ -1,0 +1,46 @@
+- facet: description
+  value: 장강 지류를 낀 흑룡방 총단 한가운데의 넓은 박석 연무장으로 흑룡기가 사방에 꽂혀 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 연무장 북쪽 전각에 외당 향주들의 집무처와 출정 기록을 쌓아 둔 문서고가 붙어 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 사파
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 위장 잠입처
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 훈련이 이어지는 한낮
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 강바람이 부는 맑음
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 도끼날 같은 도풍이 공기를 가르는 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 땀과 병장기 기름이 섞인 쇳내
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 출정 기록
+  value: 문서고의 출정 기록은 멸문의 밤 총단 병력 전원이 장강 소금 호송에 있었음을 증명한다
+  source:
+    origin: author
+    command: migrate 0.15

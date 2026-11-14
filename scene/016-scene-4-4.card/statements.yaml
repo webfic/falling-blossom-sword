@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 뇌옥에서 서한이 절반의 진실을 철산에게 내놓아 훗날 공조의 씨앗을 심는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 침묵하면 위장은 지켜도 철산이 몰락하고, 밝히면 목숨이 감찰당 손에 넘어간다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서한이 밝힌 어긋난 출정 기록을 철산이 이미 알고 있었고, 방주도 안다고 답한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 혼자 감추던 긴장이 절반의 진실을 나눈 뒤의 위태로운 신뢰로 풀린다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 방주도 아는 누명의 기록
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 약당 검진이라는 통로
+  source:
+    origin: author
+    command: migrate 0.15

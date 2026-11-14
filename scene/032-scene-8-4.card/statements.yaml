@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 죄상 공개의 결과를 갈무리하고 살아남은 자들이 낙화검문의 재건을 시작하게 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 복수가 끝난 자리에서 서한은 검을 놓을지 문파를 다시 세울지를 두고 무덤 앞에 선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 하월과 철산이 각자의 몫을 끝내고 옛터로 찾아와 첫 제자와 객원 향주를 자청한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 복수 뒤의 공허가 무덤 앞의 작별을 지나 다시 심는 자의 조용한 소망이 된다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 새로 걸린 낙화검문 현판
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 살리는 검의 첫 가르침
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 조사가 감시망에 걸렸음을 드러내고 소면귀 접선이라는 다음 수를 연다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 어긋난 기록을 정리하는 두 사람을 정체 모를 미행이 창밖에서 지켜본다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 지붕으로 사라진 미행자의 자리에 소면귀의 값을 묻는 초대 쪽지가 남아 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 진상에 다가서는 고양감이 누군가 지켜본다는 서늘한 경계심으로 식는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 지붕 위의 미행자
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 소면귀의 초대 쪽지
+  source:
+    origin: author
+    command: migrate 0.15

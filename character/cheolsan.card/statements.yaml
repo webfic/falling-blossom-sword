@@ -1,0 +1,62 @@
+- facet: description
+  value: 흑룡방 외당을 이끄는 향주로 방 안에서 드물게 신의를 지키는 사내다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 입방 시험에서 진서한의 재능을 알아보고 제 사람으로 거둔다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 방의 명령과 제 양심이 어긋날 때마다 도자루를 쥐는 버릇이 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 마음에 든 부하일수록 더 험하게 다룬다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 술은 첫 잔만 마시고 나머지는 부하에게 돌린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 도를 뽑기 전에 반드시 상대에게 물러날 기회를 준다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 호통으로 말을 시작해 끝은 챙기는 말로 맺는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 칭찬을 욕처럼 뱉는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 제 손으로 거둔 부하들을 방의 소모품으로 만들고 싶지 않다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 흑룡방이 뒤집어쓴 멸문의 누명을 벗기고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 거친 은인, 도법의 사람
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 보증의 빚
+  value: 감찰당 앞에서 제 수결을 걸어 서한의 신원을 보증했고 협곡에서 서한에게 목숨을 빚졌다
+  source:
+    origin: author
+    command: migrate 0.15

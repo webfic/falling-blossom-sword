@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 서한이 낙화검법을 드러내 철산을 구하게 하고 위장 신분을 그 값으로 치르게 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 도로는 검진을 못 깨니, 철산을 살리려면 숨겨 온 낙화검법을 꺼내야 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 서한의 낙화검법을 본 선봉 검수가 낙화의 잔당이 여기 있다고 외치며 물러난다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 정체를 지키던 인내가 은인을 살리는 선택으로 부서지고 홀가분한 각오가 남는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 낙화의 잔당이라는 외침
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 하월의 독연 신호
+  source:
+    origin: author
+    command: migrate 0.15

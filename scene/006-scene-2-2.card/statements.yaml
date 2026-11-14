@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 당하월과의 첫 조우에서 서로의 비밀을 쥔 독과 검의 거래를 성립시킨다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 하월은 서한의 잔에만 다른 독을 섞어 정체를 시험하고, 서한은 마셔야 산다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 해독단을 건넨 하월이 검 쓰는 손이 왜 도를 차느냐며 침묵의 값을 부른다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 독배 앞의 각오가 정체를 들킨 낭패를 지나 위태로운 동맹의 긴장으로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 침묵의 값이라는 거래
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 하월 손목의 검은 문신
+  source:
+    origin: author
+    command: migrate 0.15

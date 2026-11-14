@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 멸문의 밤을 서한의 눈으로 보여 복수의 기점과 낙화십이식 미완의 한을 세운다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 서한은 사부 곁에서 싸우려 하지만, 사부는 검보를 맡기며 그를 밀실로 밀어 넣는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 사부를 벤 복면 도객들 틈에서 도풍이 아닌 매끄러운 검기가 서한의 눈에 스친다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 훈련 뒤의 나른한 자부심이 무력한 공포와 살아남은 자의 수치로 무너진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 불길 속 단 하나의 검기
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 잇지 못한 열두 번째 초식
+  source:
+    origin: author
+    command: migrate 0.15

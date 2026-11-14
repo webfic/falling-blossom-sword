@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 검총 진입으로 문파 유산의 무게를 보여 주고 사부의 검을 서한에게 쥐여 준다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 문을 지키는 독무와 검진 기관이 두 사람의 지식과 호흡을 시험한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 무덤 가장 깊은 자리의 검 하나가 비어 있고 비석에 매종학의 이름만 새겨져 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 침입자의 긴장이 역대 검객들 앞에 선 계승자의 숙연함으로 가라앉는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 비어 있는 사부의 검 자리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 독무를 가르는 하월의 침
+  source:
+    origin: author
+    command: migrate 0.15

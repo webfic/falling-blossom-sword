@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 흑룡방의 모병을 접한 서한이 원수의 배 속으로 들어가는 잠입을 결심하게 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 원수의 밥을 먹는다는 치욕과 안에서만 진실을 캘 수 있다는 계산이 맞선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 시비를 정리한 서한의 손놀림을 본 곽철산이 먼저 입방패를 던지며 이름을 묻는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 복수심에 들끓던 조급함이 위장 신분을 뒤집어쓰는 서늘한 인내로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 한서라는 가짜 이름
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 얼굴 없는 정보상의 소문
+  source:
+    origin: author
+    command: migrate 0.15

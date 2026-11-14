@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 산문의 검흔을 재검증해 정파 검의 개입을 서한의 눈으로 확증한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 총단 무단이탈의 위험을 안고 온 옛터에서 기억과 흔적이 서로를 시험한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 기둥의 검흔은 부드럽게 눌러 벤 상승 검로로, 사파 어느 도법으로도 흉내 낼 수 없다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 진실을 의심하던 신중함이 정파를 향한 차갑고 새로운 분노로 방향을 튼다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 부드럽게 눌러 벤 상승 검로
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 무단이탈이 남긴 빈자리
+  source:
+    origin: author
+    command: migrate 0.15

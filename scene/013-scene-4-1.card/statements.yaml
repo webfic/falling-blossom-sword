@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 소면귀의 첫 진실로 도법은 흑룡방 것이되 검흔은 정파의 검임을 확정한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 소면귀는 값으로 서한의 본명을 요구하고, 본명은 곧 목숨줄이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 멸문의 도법은 흑룡방 것이 맞되 손이 다르며, 검흔 하나는 정파 명문의 검이라 답한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 값을 치른 굴욕이 원수가 둘로 갈라지는 진실 앞의 오한으로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 도법을 흉내 낸 다른 손
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 정파 명문의 검흔
+  source:
+    origin: author
+    command: migrate 0.15

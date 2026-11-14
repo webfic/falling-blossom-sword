@@ -1,0 +1,68 @@
+- facet: description
+  value: 정파 무림을 이끄는 무림맹주이자 천하제일검으로 추앙받는 인물이다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 이십 년 전 낙화검문 장문 매종학과의 비무에서 패한 기록을 지우려 멸문을 사주했다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 멸문의 도법을 흑룡방의 것으로 꾸며 정파의 칼로 흑룡방까지 지우려 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 노기를 띨수록 말투가 더 공손해진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 비무 이야기가 나오면 왼손으로 검집을 쓸어내린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 증거가 될 것은 반드시 밀서로 남기고 밀서는 대전 깊이 감춘다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 대의와 무림의 안녕을 앞세워 사욕을 감춘다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 상대의 이름을 부드럽게 부른 뒤 칼날 같은 말을 얹는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 이십 년 전 패배의 기록을 아는 자와 증거를 모두 지우고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 천하제일검의 이름으로 무림의 역사를 다시 쓰고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 위선의 정점, 이십 년의 거짓
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 멸문 사주
+  value: 이십 년 전 비무 패배 기록을 지우려 흑룡도법을 흉내 낸 자객단을 사서 낙화검문을 멸문시켰다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 밀서
+  value: 멸문 사주와 자객단 발문의 수결이 담긴 밀서를 무림맹 총단 서각 깊이 보관했다
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 낙화십이식의 실마리와 이십 년 전 비무 기록으로 멸문의 동기를 드러낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 석벽의 열두 번째 검결은 마지막 획이 비어 있어 유서의 빈 줄과 같은 침묵을 던진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 벽 끝의 비무 기록에 백리검성이 매종학에게 패해 일초를 빚졌다는 수결이 남아 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 유산 앞의 경외가 배후의 이름을 짚은 확신과 타는 듯한 분노로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 마지막 획이 빈 검결
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 일초를 빚진 백리검성
+  source:
+    origin: author
+    command: migrate 0.15

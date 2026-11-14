@@ -1,0 +1,40 @@
+- facet: description
+  value: 낙화검문 뒷산 능선 너머에 버려진 산사로 반쯤 무너진 대웅전만 지붕을 이고 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 쫓기는 자들이 하룻밤을 의탁하는 곳이라 불단 뒤에 마른 장작과 소금이 숨겨져 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 은신처
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 폐허
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 달빛이 새어 드는 밤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 찬 바람
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 젖은 단청 나무와 향 재의 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 뚫린 지붕 틈으로 바람이 우는 소리
+  source:
+    origin: author
+    command: migrate 0.15

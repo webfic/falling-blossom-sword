@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 유서의 빈 줄의 뜻을 깨달아 낙화십이식을 완성하고 검성의 검을 꺾는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 열한 초식은 천하제일검의 벽에 막히고, 죽이려는 검으로는 마지막 초식이 나오지 않는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 빈 줄이 베지 않고 살리는 마침임을 깨닫자 열두 번째 초식이 검성의 검만 떨군다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 복수의 살기가 사부의 뜻을 받아들인 고요로 가라앉으며 검이 처음으로 가벼워진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 떨어진 검이 증명한 패배
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 살리는 검이라는 완성
+  source:
+    origin: author
+    command: migrate 0.15

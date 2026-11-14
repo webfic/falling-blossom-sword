@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 거래를 정보 동맹으로 한 걸음 진전시키고 서한의 목적 일부를 하월과 공유한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 하월은 침묵의 값으로 목적을 캐묻고, 서한은 어디까지 밝힐지 저울질한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 하월이 멸문 이야기에 흑룡방 도법 얘기가 이상하게 조용했다는 방 안 공기를 증언한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 혼자 지던 복수의 무게가 처음으로 반쪽의 공모자를 얻은 불안한 든든함이 된다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 방 안의 이상한 침묵
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 얼굴 없는 정보상 소면귀
+  source:
+    origin: author
+    command: migrate 0.15

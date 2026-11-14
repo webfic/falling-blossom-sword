@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 검을 숨긴 비무로 서한을 입방시키되 실력을 다 감출 수 없음을 보여 준다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 이겨야 입방하지만 낙화검법을 쓰면 정체가 드러나, 서한은 조잡한 도로 싸워야 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 일부러 맞아 주며 이긴 서한에게 곽철산이 어느 손이 진짜 손이냐고 낮게 묻는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 시험을 통과한 안도가 곽철산의 눈썰미에 대한 긴장으로 곤두선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 도 아래 숨긴 검의 보법
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 어느 손이 진짜냐는 물음
+  source:
+    origin: author
+    command: migrate 0.15

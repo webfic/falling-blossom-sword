@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 대전과 서각의 경비를 파악하고 정파의 화려한 위선을 서한의 눈에 새긴다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 협곡에서 낙화검법을 본 선봉 검수가 연회장을 돌며 낯을 훑어 잠입조를 조인다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 하월이 순찰 향로의 향이 서각 쪽만 다른 것을 맡아 숨은 경비 교대로를 찾아낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 원수의 잔치에 선 역겨움이 향 하나로 길을 찾은 차가운 집중으로 벼려진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 서각 쪽만 다른 향
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 연회장을 도는 낯익은 검수
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,74 @@
+- facet: description
+  value: 하룻밤에 멸문당한 낙화검문의 유일한 생존 제자다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 미완의 절기 낙화십이식의 마지막 초식을 잇지 못한 채 사부를 잃었다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 복수를 위해 원수로 지목된 흑룡방에 신분을 숨기고 들어간다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 상대의 검보다 발끝의 방향을 먼저 읽는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 분노가 치밀수록 목소리가 낮아진다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 잠들기 전 낙화십이식 열한 초식을 손가락으로 되짚는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 꼭 필요한 말만 짧게 끊어 한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 거짓 신분을 말할 때는 일부러 느리게 또박또박 말한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 낙화검문을 멸한 진짜 배후를 밝혀 사부의 원한을 갚고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 낙화십이식 마지막 초식을 완성해 문파의 검을 잇고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 은인원수, 미완의 검
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 생존 경위
+  value: 멸문의 밤에 사부가 검보를 맡겨 밀실에 숨긴 덕에 낙화검문에서 홀로 살아남았다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 위장 신분
+  value: 한서라는 가짜 이름으로 흑룡방 외당에 입방해 곽철산의 부하가 되었다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 미완의 절기
+  value: 낙화십이식 열두 초식 중 마지막 초식을 잇지 못했고 그 검결 자리는 유서의 빈 줄로 남았다
+  source:
+    origin: author
+    command: migrate 0.15

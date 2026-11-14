@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 사부의 유서와 검총 지도 반쪽을 서한의 손에 쥐여 복수의 첫 이정표를 세운다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 시신을 묻어야 할 도리와 흔적이 식기 전에 원수를 쫓아야 한다는 조급함이 맞선다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 유서의 마지막 검결 한 줄이 비어 있고, 그 접힌 갈피에서 지도 반쪽이 떨어진다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 실감 없는 멍함이 장례의 흙을 덮으며 복수를 향한 차가운 결심으로 굳는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 유서의 비어 있는 마지막 줄
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 갈피에 숨겨진 지도 반쪽
+  source:
+    origin: author
+    command: migrate 0.15

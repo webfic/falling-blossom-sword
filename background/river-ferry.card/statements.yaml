@@ -1,0 +1,40 @@
+- facet: description
+  value: 장강 물목을 건너는 큰 나루로 상선과 표국 짐배가 밤낮없이 드나든다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 나루 어귀 주막에는 배편과 물길을 꿰는 늙은 사공들이 모여 앉아 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 물길
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 행적의 증인
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 물안개 낀 아침
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 안개
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 강물 비린내와 삿대에 밴 젖은 나무 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 뱃전에 부딪는 물소리와 짐꾼들의 외침
+  source:
+    origin: author
+    command: migrate 0.15

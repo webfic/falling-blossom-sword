@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 검총 지도의 나머지 반쪽을 얻고 소면귀가 미래에 받을 값의 복선을 심는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 소면귀는 은자를 마다하고 훗날 진실이 공개되는 자리의 한 자리를 값으로 부른다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 내놓은 반쪽 지도의 여백에 매종학의 필적으로 소면귀 앞이라는 글이 적혀 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 정보상을 향한 경계가 사부와 이어진 자였다는 놀라움과 착잡함으로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 진실 공개의 자리 한 석
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 사부와 소면귀의 연
+  source:
+    origin: author
+    command: migrate 0.15

@@ -1,0 +1,62 @@
+- facet: description
+  value: 독곡에서 빚 대신 흑룡방에 팔려온 독술사다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 독으로 사람을 살리는 법을 먼저 배웠으나 죽이는 법으로 값을 치르고 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 진서한의 비밀을 눈치채고 독과 검의 거래로 위태로운 동맹을 맺는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 처음 보는 상대의 찻잔에 은침을 스치듯 담근다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 거래가 아니면 호의를 받지 않는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: traits
+  value: 왼 손목의 검은 계약 문신을 소매로 가린다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 약재 이름에 빗대어 속마음을 돌려 말한다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: voice
+  value: 냉소로 시작해 끝에 한 마디 진심을 얹는다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 흑룡방과의 계약을 끊고 독곡의 이름을 되찾고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: desire
+  value: 서한의 복수가 자신의 해방과 같은 길임을 확인하고 싶다
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 태그
+  value: 독과 해독, 위태로운 동맹
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 계약의 족쇄
+  value: 독곡의 빚 계약으로 흑룡방에 팔려 왔고 그 계약은 독곡의 검은 비석에 새겨져 있다
+  source:
+    origin: author
+    command: migrate 0.15

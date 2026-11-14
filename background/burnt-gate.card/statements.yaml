@@ -1,0 +1,46 @@
+- facet: description
+  value: 매화 언덕 위에 서 있던 낙화검문이 하룻밤 불길에 무너져 검게 그을린 폐허.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 무너진 산문 기둥에는 도(刀)로 베인 깊은 자국들이 그대로 남아 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 폐허
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 멸문의 흔적
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 잿빛 새벽
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 매캐한 바람
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 식은 재와 그을린 소나무 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 무너진 기와가 바람에 미끄러져 부딪는 소리
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 검흔
+  value: 산문 기둥에는 흑룡방 도 자국 틈에 정파 명문의 상승 검로 검흔 하나가 남아 있다
+  source:
+    origin: author
+    command: migrate 0.15

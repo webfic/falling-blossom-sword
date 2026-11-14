@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 나루 사공들의 증언으로 멸문의 밤 흑룡방 선단의 행적을 기록 밖에서 확증한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 캐물을수록 사공들은 입을 닫고, 낯선 질문은 방과 맹 양쪽의 귀에 들어갈 수 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 늙은 사공이 그날 밤 소금배 곁을 지나던 깃발 없는 쾌속선 한 척을 기억해 낸다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 기록 하나에 기대던 불안이 산 증언을 얻어 흑룡방 무죄라는 확신으로 굳는다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 깃발 없는 쾌속선
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 낯선 질문을 엿듣는 귀
+  source:
+    origin: author
+    command: migrate 0.15

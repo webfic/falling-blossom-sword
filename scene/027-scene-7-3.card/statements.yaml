@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 밀서를 서한의 손에 쥐여 주고 백리검성과의 첫 대면으로 적의 격을 세운다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 밀서를 찾은 순간 서각의 문이 열리고, 등불도 없이 백리검성이 어둠 속에 서 있다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 검성이 그 검보는 이십 년을 기다린 미끼라며 서한의 잠입까지 제 판이었다 말한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 밀서를 쥔 승기가 적의 손바닥 위였다는 전율로, 다시 살아 나가야 할 오기로 바뀐다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 이십 년을 기다린 미끼
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 자객단 발문의 수결
+  source:
+    origin: author
+    command: migrate 0.15

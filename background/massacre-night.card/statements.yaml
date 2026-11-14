@@ -1,0 +1,46 @@
+- facet: description
+  value: 매화가 만개한 봄밤 자시에 복면 도객들이 낙화검문을 급습해 하룻밤 만에 문파를 지운 밤.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: description
+  value: 무림은 이 밤을 흑룡방의 소행으로 기록했으나 검흔 하나가 그 기록과 어긋난다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 사건의 기점
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: tags
+  value: 이십 년 음모의 발화
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: time
+  value: 봄밤 자시
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: weather
+  value: 달 밝은 밤
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 매화 향을 삼키는 불길과 그을음 냄새
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: senses
+  value: 도풍이 문짝을 쪼개는 소리와 비명
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: fact
+  key: 무림의 기록
+  value: 무림은 이 밤을 흑룡방의 소행으로 기록했으나 실제 하수인은 도법을 흉내 낸 자객단이었다
+  source:
+    origin: author
+    command: migrate 0.15

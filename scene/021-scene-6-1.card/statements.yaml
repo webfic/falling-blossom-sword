@@ -1,0 +1,30 @@
+- facet: purpose
+  value: 토벌령으로 누명의 구도를 완성해 서한에게 멸문과 토벌이 한 획임을 깨닫게 한다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: conflict
+  value: 낙화의 원수여야 할 방을 지킬 것인가, 정파의 칼 앞에 비켜설 것인가가 서한을 가른다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: twist
+  value: 토벌 격문의 죄목 첫 줄이 낙화검문 멸문의 원흉 토멸이어서 누명이 칼이 된 것을 본다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: emotionalShift
+  value: 방관자의 계산이 같은 손에 지워질 자들 곁에 서겠다는 결심으로 기운다.
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 격문 첫 줄의 낙화검문
+  source:
+    origin: author
+    command: migrate 0.15
+- facet: foreshadowing
+  value: 협곡 외길의 방어선
+  source:
+    origin: author
+    command: migrate 0.15
